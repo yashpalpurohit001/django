@@ -1,0 +1,18 @@
+body {
+    background-color: #e0f2fe; /* Light blue background */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    color: #0369a1; /* Dark blue text */
+    margin-bottom: 20px;
+}
+
+#output-box {
+    color: #047857; /* Green text for the JavaScript message */
+    font-size: 24px;
+    margin-top: 20px;
+    font-weight: normal;
+}
